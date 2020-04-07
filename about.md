@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Over
 ---
 
-Hello.
+Hi.
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+Mijn naam is Stef Beukers en ik werk momenteel als business analist bij UWV, met focus op de verbetering van de online dienstverlening.
 
 **Less is more..**
