@@ -1,5 +1,5 @@
 ---
-title: Thuiswerken: wat voor mij werkt
+title: Thuiswerken, met handige tools
 ---
 
 Deze blogpost had ik al een tijdje in gedachten, maar gezien de huidige situatie waarin heel veel mensen thuiswerken vanwege Covid-19 past deze post prima in de tijd.
