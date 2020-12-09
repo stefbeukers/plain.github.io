@@ -9,7 +9,7 @@ Mijn naam is Stef Beukers en ik werk als business analist bij UWV. Dagelijks wer
 
 Het slotstuk van mijn studie Communicatiewetenschap betrof een scriptie gericht op de Tweede Kamerverkiezingen van 15 maart 2017 en de manier waarop kandidaten Twitter inzetten als campagnemiddel in aanloop naar deze verkiezingen. Hierover heb ik een aantal blogposts geschreven.
 
-Hieronder staat een korte CV van mij, de rest is te vinden op [LinkedIn](https://linkedin.com/in/stefbeukers) en [Twitter](https://twitter.com/stefbeukers). 
+Hieronder staat een korte CV van mij, de rest is te vinden op [LinkedIn](https://linkedin.com/in/stefbeukers) en [Twitter](https://twitter.com/stefbeukers).  
 
 **Business analist**  
 UWV  
