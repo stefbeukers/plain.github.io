@@ -11,7 +11,10 @@ Het slotstuk van mijn studie Communicatiewetenschap betrof een scriptie gericht 
 
 Hieronder staat een korte CV van mij, de rest is te vinden op [LinkedIn](https://linkedin.com/in/stefbeukers) en [Twitter](https://twitter.com/stefbeukers).
 
-- 2018 - 20xx: Business analist @ UWV
-- 2017 - 2018: Trainee informatievoorziening @ UWV
-- 2016 - 2017: Master Communicatiewetenschap @ Radboud Universiteit Nijmegen 
-- 2012 - 2016: Bachelor Communicatiewetenschap @ Radboud Universiteit Nijmegen 
+2018 - 20xx: Business analist @ UWV
+
+2017 - 2018: Trainee informatievoorziening @ UWV
+
+2016 - 2017: MSc Communicatiewetenschap @ Radboud Universiteit Nijmegen 
+
+2012 - 2016: BSc Communicatiewetenschap @ Radboud Universiteit Nijmegen 
